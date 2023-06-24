@@ -18,4 +18,8 @@ Features
 3. Logout;
 4. Save User preferences (localStorage);
 5. add To cart;
-6. delete products.
+6. delete products;
+7. Modal;
+8. SearchBar.
+
+link vercel: https://kenzie-burguer-lime.vercel.app/
